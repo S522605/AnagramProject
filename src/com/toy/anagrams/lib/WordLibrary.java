@@ -49,7 +49,7 @@ public abstract class WordLibrary {
     }
 
     /**
-     * Gets the word at a given index.
+     * Gets the word at the given index.
      * @param idx index of required word
      * @return word at that index in its natural form
      */
